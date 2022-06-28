@@ -51,7 +51,7 @@
     width: 340px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 549px;
+  min-height: 616px;
 }
 
 .u-section-2 .u-text-1 {
@@ -60,9 +60,9 @@
 }
 
 .u-section-2 .u-form-1 {
-  height: 347px;
+  height: 414px;
   width: 570px;
-  margin: 30px auto 60px;
+  margin: 35px auto 55px;
 }
 
 .u-section-2 .u-input-1 {
@@ -73,7 +73,15 @@
   text-transform: uppercase;
 }
 
+.u-section-2 .u-form-group-3 {
+  margin-left: 0;
+}
+
 .u-section-2 .u-input-3 {
+  text-transform: uppercase;
+}
+
+.u-section-2 .u-input-4 {
   text-transform: uppercase;
 }
 
