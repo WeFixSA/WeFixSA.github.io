@@ -570,8 +570,7 @@
 }
 
 .u-section-3 .u-table-2 {
-  width: 1049px;
-  height: 115px;
+  width: 1056px;
   margin: 17px auto 0 0;
 }
 
@@ -662,6 +661,7 @@
 
   .u-section-3 .u-table-2 {
     width: 880px;
+    height: 115px;
   }
 
   .u-section-3 .u-table-3 {
@@ -1696,7 +1696,7 @@
     margin-left: 12px;
   }
 }.u-section-6 .u-sheet-1 {
-  min-height: 1023px;
+  min-height: 713px;
 }
 
 .u-section-6 .u-text-1 {
@@ -1708,7 +1708,7 @@
 .u-section-6 .u-tabs-1 {
   min-height: 571px;
   margin-top: 20px;
-  margin-bottom: 33px;
+  margin-bottom: 37px;
 }
 
 .u-section-6 .u-tab-item-1 {
